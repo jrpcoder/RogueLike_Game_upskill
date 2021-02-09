@@ -8,7 +8,7 @@ O projecto centra-se na implementação de um jogo do tipo estratégia similar a
 
 Demos:
 ![Demo ataque físico e apanhar objectos](https://github.com/jrpcoder/RogueLike_Game_upskill/blob/master/Rogue_demos/Rogue_demo_physicalAttack_catchItems.gif)
-<img src="Rogue_demos/Rogue_demo_physicalAttack_catchItems.gif")/>
+<img src="Rogue_demos/Rogue_demo_physicalAttack_catchItems.gif"/>
 
 Mecanismos do jogo:
 - O jogo inicia-se na room 0 ou em uma outra caso haja um save prévio.

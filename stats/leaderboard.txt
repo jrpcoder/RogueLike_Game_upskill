@@ -1,0 +1,2 @@
+1. player1 6150
+2. player2 99

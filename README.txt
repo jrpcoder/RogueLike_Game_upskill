@@ -7,7 +7,9 @@ Descrição:
 O projecto centra-se na implementação de um jogo do tipo estratégia similar ao Rogue (http://en.wikipedia.org/wiki/Roguelike).
 
 Demos:
-![Demo ataque físico e apanhar objectos](/Rogue_demos/Rogue_demo_physicalAttack_catchItems.gif)
+![Demo ataque físico e apanhar objectos](https://github.com/jrpcoder/RogueLike_Game_upskill/blob/master/Rogue_demos/Rogue_demo_physicalAttack_catchItems.gif)
+
+<img src="https://github.com/jrpcoder/RogueLike_Game_upskill/blob/master/Rogue_demos/Rogue_demo_physicalAttack_catchItems.gif" width="40" height="40" />
 
 ![Demo lançamento bola de fogo](https://github.com/jrpcoder/RogueLike_Game_upskill/blob/master/Rogue_demos/Rogue_fireBall_demo.gif)
 

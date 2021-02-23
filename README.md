@@ -11,12 +11,15 @@ O projecto centra-se na implementação de um jogo do tipo estratégia similar a
 
 Demos:
 - Ataque fisico e apanhar objectos
+
 ![Demo ataque físico e apanhar objectos](https://github.com/jrpcoder/RogueLike_Game_upskill/blob/master/Rogue_demos/Rogue_demo_catchKey.gif)
 
 - Lançamento de bola de fogo
+
 ![Demo lançamento bola de fogo](https://github.com/jrpcoder/RogueLike_Game_upskill/blob/master/Rogue_demos/Rogue_fireBall_demo.gif)
 
 - Apanhar chave e passar porta
+
 ![Demo apanhar chave e passar porta](https://github.com/jrpcoder/RogueLike_Game_upskill/blob/master/Rogue_demos/Rogue_demo_catchKey.gif)
 
 
